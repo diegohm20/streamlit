@@ -1,5 +1,5 @@
 import streamlit as st
-
+from fpdf import FPDF
 # Função para gerar o PDF
 
 
